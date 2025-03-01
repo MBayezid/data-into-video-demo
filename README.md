@@ -1,4 +1,4 @@
-# data-conversion-demo-python
+# About
 
 Python scripts that encodes data into a series of images (video) and then decodes the data back from the images. The script aims to demonstrate a proof-of-concept for encoding and decoding data within a series of images, potentially for applications like steganography or creating unique visual representations of data.
 
