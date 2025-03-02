@@ -3,7 +3,7 @@
 ## 📌 Overview
 A Python-based tool that converts any file/folder into a lossless video format and reconstructs the original data perfectly. Ideal for data archiving in video form.
 
-![Workflow Diagram](https://i.imgur.com/3Q2Jt8D.png)
+![Workflow Diagram](Screenshots/Screenshot from 2025-03-01 21-03-02.png)
 
 ## 🔧 How It Works
 
@@ -90,6 +90,6 @@ sudo apt install ffmpeg
 ## 📄 License
 MIT License - Free for commercial and personal use
 
-**Created by**: [Your Name]  
-**Version**: 1.2 (2023-08-20)  
-**Repository**: [github.com/yourusername/data-video-converter]
+**Created by**: [Musanna Bayezid]  
+**Version**: 1.2 (2-3-2025)  
+**Repository**: [https://github.com/MBayezid/data-conversion-demo-python]
