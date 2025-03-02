@@ -67,7 +67,7 @@ print("Data Match:", original == extracted)  # True/False
 
 ## ⚠️ Current Limitations
 1. **Large Video Sizes**  
-   10MB ZIP → ~30MB video (3:1 size ratio)
+   10MB ZIP → ~20MB video (2:1 size ratio)
 2. **No Partial Recovery**  
    Entire video needed for reconstruction
 3. **Basic UI**  
@@ -76,7 +76,7 @@ print("Data Match:", original == extracted)  # True/False
 ## 🌐 Use Cases
 - **Data Archiving**: Store documents as YouTube videos
 - **Steganography**: Hide data in plain sight
-- **Cold Storage**: Long-term preservation on analog media
+- **Cold Storage**: Long-term preservation 
 
 ## 📦 Dependencies
 ```bash
