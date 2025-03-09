@@ -113,10 +113,6 @@ youtube.upload(
     disguise_mode="cat_video",
     compression_immunity=True
 )
-```
-
-Your project is ahead of its time - keep developing it as web platforms evolve! What you're building could become the foundation for **anti-censorship data storage** systems.
-
 ---
 
 **Studies influenced me mostly,**
