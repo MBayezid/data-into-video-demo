@@ -8,7 +8,7 @@ files -> ZIP -> Video Frame Encoding -> YouTube Upload -> Download -> ZIP Extrac
 ---
 
 ### 💡 **Ethical Consideration**
-While technically fascinating, this exists in a legal gray area according to my basic study. Most platforms prohibit non-video content storage. Proceed as an academic experiment rather than production solution.
+While technically fascinating, this exists in a legal gray area according to my basic study. Most platforms prohibit non-video content storage. Proceed as an academic experiment rather than production solution. **Potential ToS violations for storage abuse.**
 
 ---
 
