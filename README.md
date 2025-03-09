@@ -65,7 +65,7 @@ audio = original_audio + data_encoded_as_ultrasound
 
 ---
 
-### 📊 **Platform Capacities (approximate)**
+### 📊 **Platform Capacities (approx)**
 
 | Platform    | Free Storage Potential | Data Survival Rate |
 |-------------|------------------------|--------------------|
