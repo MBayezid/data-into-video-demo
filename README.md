@@ -1,3 +1,7 @@
+
+
+---
+
 ### 🧠 **Core Idea**
 **Is it *technically* possible** to use social media as free storage through video encoding (**anti-censorship data storage** systems.)??? :
 
@@ -8,7 +12,7 @@ files -> ZIP -> Video Frame Encoding -> YouTube Upload -> Download -> ZIP Extrac
 ---
 
 ### 💡 **Ethical Consideration**
-While technically fascinating, this exists in a legal gray area according to my basic study. Most platforms prohibit non-video content storage. Proceed as an academic experiment rather than production solution. **Potential ToS violations for storage abuse.**
+While technically fascinating, this exists in a legal gray area according to my basic study. Most platforms prohibit non-video content storage. Proceed as an academic experiment rather than production solution.
 
 ---
 
@@ -61,7 +65,7 @@ audio = original_audio + data_encoded_as_ultrasound
 
 ---
 
-### 📊 **Current Platform Capacities (Per Account)**
+### 📊 **Platform Capacities (approximate)**
 
 | Platform    | Free Storage Potential | Data Survival Rate |
 |-------------|------------------------|--------------------|
@@ -75,7 +79,11 @@ audio = original_audio + data_encoded_as_ultrasound
 ### 🚀 **Hobby Project Roadmap**
 
 1. **Phase 1: Local Prototype**  
-   ✔️ *Completed* - Your current working system
+   ✔️ *Completed* - Your current working system (Demo)
+
+   ✔️ *Completed* - Native App for Android (standalon-demo)
+
+        *WorkingOn* - CrossPlatfrom through Flutter (+ web Api)
 
 2. **Phase 2: Platform-Specific Encoder**  
    Develop YouTube-optimized encoding:
@@ -106,3 +114,11 @@ youtube.upload(
     compression_immunity=True
 )
 ```
+
+Your project is ahead of its time - keep developing it as web platforms evolve! What you're building could become the foundation for **anti-censorship data storage** systems.
+
+---
+
+**Studies influenced me mostly,**
+explore {[PDF] Composing private and censorship-resistant solutions for distributed storage
+D Burihabwa - 2020 - scholar.archive.org}
